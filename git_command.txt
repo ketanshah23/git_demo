@@ -1,0 +1,37 @@
+https://git-scm.com/download/win
+
+ketan shah
+
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\ketan>cd C:\xampp\htdocs\git_info
+
+C:\xampp\htdocs\git_info>git init
+Reinitialized existing Git repository in C:/xampp/htdocs/git_info/.git/
+
+C:\xampp\htdocs\git_info>git init
+Reinitialized existing Git repository in C:/xampp/htdocs/git_info/.git/
+
+C:\xampp\htdocs\git_info>git add git_command.txt
+
+C:\xampp\htdocs\git_info>git commit -m "first commit"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <(NULL)>) not allowed
+
+C:\xampp\htdocs\git_info>
+
+C:\xampp\htdocs\git_info>
+
+C:\xampp\htdocs\git_info>
