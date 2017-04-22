@@ -30,6 +30,25 @@ Omit --global to set the identity only in this repository.
 
 fatal: empty ident name (for <(NULL)>) not allowed
 
+
+asa
+
+s
+
+sa
+
+sa
+
+sas
+
+a
+
+sas
+
+a
+s
+
+
 sdfdsfsdsd
 
 
