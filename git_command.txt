@@ -28,7 +28,7 @@ Run
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
-fatal: empty ident name (for <(NULL)>) not allowed
+fatal: empty ident name (for <(NULL)>)dfdfddfdddfdfdfd not allowed
 
 
 asa
