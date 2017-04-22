@@ -30,6 +30,9 @@ Omit --global to set the identity only in this repository.
 
 fatal: empty ident name (for <(NULL)>) not allowed
 
+sdfdsfsdsd
+
+
 C:\xampp\htdocs\git_info>
 
 C:\xampp\htdocs\git_info>
